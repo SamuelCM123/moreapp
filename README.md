@@ -13,3 +13,5 @@ A continuación se describirán los pasos de instalación:
     ```
 
 2. Más puntos..."# moreapp" 
+
+📌 [RETRO]: Describir con precisión las instrucciones del README.
